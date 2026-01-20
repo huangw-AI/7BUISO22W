@@ -2,7 +2,7 @@
 
 ### This is the Module repository for the MSc Cyber Security Application. 
 
-DNS reset and switching between university and home networks
+#### DNS reset and switching between university and home networks
 
 Using NAT Outside the University (DNS and resolvconf)
 Internet Connection Outside the University (NAT)
