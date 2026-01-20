@@ -1,6 +1,6 @@
 # 7BUISO22W Course
 
-This is the Module repository for the MSc Cyber Security Application. 
+### This is the Module repository for the MSc Cyber Security Application. 
 
 DNS reset and switching between university and home networks
 
