@@ -68,3 +68,31 @@ sudo ./switch-dns.sh status
 ```bash
 sudo ./switch-dns.sh show
 ```
+<details> <summary><strong>Student ID</strong></summary>
+
+
+## Using `studentid.sh`
+
+The `studentid.sh` script customises the terminal prompt to display your Student ID.  
+```bash
+chmod +x studentid.sh
+```
+
+### Set your Student ID
+```bash
+./studentid.sh
+```
+You will be prompted to enter your Student ID. After restarting the terminal, your prompt will look like:
+
+```shell
+Student ID: w1234567 | user@host:~/current/directory$
+```
+
+To reset to default prompt
+```bash
+
+./studentid.sh --reset
+```
+This restores your original .bashrc (from .bashrc.bak) and removes the Student ID prompt.
+
+</details>
