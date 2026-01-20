@@ -1,5 +1,17 @@
 # 7BUISO22W Course
-This is the Module repository for the level 6 Cyber Security module (6COSC019W) at the university of Westmisnter.
+
+This is the Module repository for the MSc Cyber Security Application  at the university of Westmisnter.
+
+DNS reset and switching between university and home networks
+
+Using NAT Outside the University (DNS and resolvconf)
+Internet Connection Outside the University (NAT)
+
+When working outside the university network, the Kali VM should use NAT for internet access.
+Some activities require only the Kali VM to be online, which can be achieved using NAT mode.
+The university-provided Kali image is configured for use inside the university network to avoid blocked Kali domains when updating repositories.
+Therefore, when working outside the university premises, you must switch the DNS resolver to match your home network configuration.
+
 
 
 # how to use switch-dns.sh
