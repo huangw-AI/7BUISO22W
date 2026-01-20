@@ -1,4 +1,4 @@
-# 6COSC019W-uow
+# 7BUISO22W Course
 This is the Module repository for the level 6 Cyber Security module (6COSC019W) at the university of Westmisnter.
 
 
