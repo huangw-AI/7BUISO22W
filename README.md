@@ -38,7 +38,8 @@ The script also locks the file to prevent NetworkManager or systemd from overwri
 ```bash
 nano switch-dns.sh
 ```
-On gitbub, click on the switch-dns.sh script, copy it and Paste the script content in the nano terminal, then press:
+click on the switch-dns.sh script, copy it and Paste the script content in the nano terminal, then press:
+
 Ctrl + X
 Y
 Enter
